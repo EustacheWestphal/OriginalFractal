@@ -2,7 +2,7 @@ public void settings() {
     size(400, 400);
   }
   public void setup(){
-    rectMode(CENTER);
+ 
   }
   public void draw(){
     int color1 = (int)(Math.random()*256);
